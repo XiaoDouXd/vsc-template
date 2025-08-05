@@ -1,3 +1,11 @@
+# ide
+/**/.vs
+/**/.idea
+/**/.cache
+/**/.vscode
+/**/[iI]gnore*/
+/**/[bB]uild*/
+
 # Prerequisites
 *.d
 
